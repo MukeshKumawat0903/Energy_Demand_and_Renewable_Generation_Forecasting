@@ -1,0 +1,21 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.20.0
+
+# Statsmodels for Time Series Analysis
+statsmodels==0.14.2
+
+# Prophet for Forecasting
+prophet==1.1.6
+
+# Scikit-learn for Evaluation Metrics
+scikit-learn==1.4.2
+
+# Other
+tqdm==4.66.1
+
