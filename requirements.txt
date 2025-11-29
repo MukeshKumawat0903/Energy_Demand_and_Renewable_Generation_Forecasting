@@ -13,9 +13,13 @@ statsmodels==0.14.2
 # Prophet for Forecasting
 prophet==1.1.6
 
+# Auto-ARIMA (Optional but recommended)
+pmdarima>=1.8.0
+
 # Scikit-learn for Evaluation Metrics
 scikit-learn==1.4.2
 
 # Other
 tqdm==4.66.1
+python-dateutil>=2.8.0
 
